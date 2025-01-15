@@ -1,4 +1,4 @@
 ---
-title: "People"
+title: "Bean Lab Members"
 format: html
 ---

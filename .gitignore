@@ -50,3 +50,7 @@ rsconnect/
 
 # Mac System File
 .DS_Store
+
+# Quarteo Files
+/.quarto/
+/_site/

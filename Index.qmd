@@ -2,3 +2,5 @@
 title: "Future home of the Bean Lab"
 format: html
 ---
+
+[Prof. Tim Bean](https://bio.calpoly.edu/content/bean)

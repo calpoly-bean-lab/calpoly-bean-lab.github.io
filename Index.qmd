@@ -1,0 +1,4 @@
+---
+title: "Future home of the Bean Lab"
+format: html
+---

@@ -1,0 +1,9 @@
+---
+title: about
+about:
+  template: jolla
+  image: photos/headshots/Appleby_Scott.jpg
+  image-shape: round
+format: html
+---
+

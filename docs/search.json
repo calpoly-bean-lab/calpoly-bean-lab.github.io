@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "Index.html",
-    "href": "Index.html",
-    "title": "Future home of the Bean Lab",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Bean Lab Members",
     "section": "",
-    "text": "Prof. Tim Bean"
+    "text": "Associate Professor\nwtbean@calpoly.edu"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Future home of the Bean Lab",
+    "objectID": "people.html#faculty",
+    "href": "people.html#faculty",
+    "title": "Bean Lab Members",
     "section": "",
-    "text": "Prof. Tim Bean"
+    "text": "Associate Professor\nwtbean@calpoly.edu"
+  },
+  {
+    "objectID": "people.html#postdoctoral-fellows",
+    "href": "people.html#postdoctoral-fellows",
+    "title": "Bean Lab Members",
+    "section": "Postdoctoral Fellows",
+    "text": "Postdoctoral Fellows\n\n\n\n\n\nScott Appleby, PhD\nFrost Teacher-Scholar Postdoctoral Fellow\nsappleby@calpoly.edu\nScott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management."
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "Bean Lab Members",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\nKatie Elder\n\n\nGarrett Gimbel\n\n\nJen Ibarra\n\n\nKevin Lopez\n\n\nCaroline MacKenzie\n\n\nTricia Nguyen\n\n\nDesirae Thomaier"
+  },
+  {
+    "objectID": "people.html#undergraduate-students",
+    "href": "people.html#undergraduate-students",
+    "title": "Bean Lab Members",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\n\nChorro Creek Project\n\n\nCarizzo Plain Ecosystem Project"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "Bean Lab Members",
+    "section": "Alumni",
+    "text": "Alumni\n\nGraduate Students\n\n\nUndergraduates\n:::"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "BIO 327: Wildlife Ecology\nTerm Typically Offered: SP\nPrinciples of ecology as applied to the study of wild vertebrates and their habitats. Emphasis on techniques for collecting and analyzing field data and how these data apply to the study and management of wildlife. Use of the literature, inventory of plants and animal populations, use of maps and databases, quantifying diet and habitat use, determining sex and age and nutritional condition, capture and marking techniques, non-invasive sampling methods.\n\n\nBIO 427: Wildlife Management\nTerm Typically Offered: F\nImportant habitats, such as riparian, wetlands, and habitat features important to wildlife, such as vegetation types and snags. Basic concepts of wildlife management. Emphasis on planning and designing habitats to meet the needs of wildlife.\n\n\nBIO 447: Spatial Ecology\nTerm Typically Offered: W\nEffect of geographical space on distribution and abundance of organisms. Analysis of movement, home ranges, connectivity, range limits, and factors that shape these processes. Survey of available tools and data to answer questions in the discipline."
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Research opportunities in the Bean Lab",
+    "section": "",
+    "text": "Undergraduate Students\nWe encourage undergraduate students interested in joining our Chorro Creek project to contact Prof. Bean or Dr. Appleby in advance of each fall quarter. We will also consider students seeking research experience starting in the winter and spring quarters on a case-by-case basis, though opportunities are more limited.\n\n\nGraduate Students\nThough there are currently no openings in the lab, students interested in pursuing a masters degree with Dr. Bean may always reach out with project ideas."
   }
 ]

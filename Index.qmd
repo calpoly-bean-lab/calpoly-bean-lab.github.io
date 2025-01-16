@@ -1,5 +1,24 @@
 ---
-title: "Future home of the Bean Lab"
+title: "Spatial Wildlife Ecology Lab"
+subtitle: "Cal Poly, San Luis Obispo"
+title-block-banner: photos/banner_krat_garrett.jpg
+title-block-banner-color: white
 format: html
 ---
-[Prof. Tim Bean](https://bio.calpoly.edu/content/bean)
+<style>
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 2000px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>

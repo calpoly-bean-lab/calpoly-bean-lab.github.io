@@ -2,3 +2,58 @@
 title: "Bean Lab Members"
 format: html
 ---
+
+## Faculty
+::::: grid
+::: g-col-3
+![](photos/headshots/Bean_Tim.jpg){style="border-radius:50%" width="100%"}
+:::
+::: g-col-9
+### Tim Bean, PhD
+Associate Professor\
+[wtbean\@calpoly.edu](mailto:wtbean@calpoly.edu)
+:::
+:::::
+## Postdoctoral Fellows
+::::: grid
+::: g-col-3
+![](photos/headshots/Appleby_Scott.jpg){style="border-radius:50%" width="100%"}
+:::
+::: g-col-9
+### Scott Appleby, PhD
+Frost Teacher-Scholar Postdoctoral Fellow\
+[sappleby\@calpoly.edu](mailto:sappleby@calpoly.edu)
+
+
+Scott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management.
+:::
+:::::
+## Graduate Students
+
+### Katie Elder
+
+### Garrett Gimbel
+
+### Jen Ibarra
+
+### Kevin Lopez
+
+### Caroline MacKenzie
+
+### Tricia Nguyen
+
+### Desirae Thomaier
+
+## Undergraduate Students
+
+### Chorro Creek Project
+
+### Carizzo Plain Ecosystem Project
+
+## Alumni
+
+### Graduate Students
+
+### Undergraduates
+
+:::

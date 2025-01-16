@@ -1,5 +1,10 @@
 ---
-title: "Research opportunities for undergraduate and graduate students in the Bean Lab"
+title: "Research opportunities in the Bean Lab"
 format: html
 ---
 
+### Undergraduate Students
+We encourage undergraduate students interested in joining our Chorro Creek project to contact Prof. Bean or Dr. Appleby in advance of each fall quarter. We will also consider students seeking research experience starting in the winter and spring quarters on a case-by-case basis, though opportunities are more limited.
+
+### Graduate Students
+Though there are currently no openings in the lab, students interested in pursuing a masters degree with Dr. Bean may always reach out with project ideas.

@@ -1,3 +1,37 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "Bean Lab"
+  navbar:
+    left:
+      - href: people.qmd
+        text: People
+      - href: teaching.qmd
+        text: Teaching
+      - text: Research
+        menu:
+        - text: Overview
+          href: research.qmd
+        - text: Chorro Creek ER
+          href: chorro_creek_reserve.qmd
+        - text: Carizzo Plain Ecosystem Project
+          href: carizzo_plain.qmd
+      - href: opportunities.qmd
+        text: Prospective Students
+      - href: publications.qmd
+        text: Publications
+    tools:
+      - icon: github
+        href: https://github.com/calpoly-bean-lab
+      - icon: instagram
+        href: https://www.instagram.com/spatialecologylab
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

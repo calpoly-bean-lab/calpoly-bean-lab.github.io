@@ -38,10 +38,31 @@ Scott’s research focuses on population and community modeling, integrating a v
 ## Graduate Students
 
 ### Katie Elder
-
+::::: grid
+::: g-col-3
+![](photos/headshots/Gimbel_Garrett.jpg){style="border-radius:50%" width="100%"}
+:::
+::: g-col-9
 ### Garrett Gimbel
+Masters Student\
+{{<fa envelope>}}
 
+Garrett is interested in the... and is investigating the... distribution of kangaroo rats in the central coast range.
+:::
+:::::
+::::: grid
+::: g-col-3
+![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+:::
+::: g-col-9
 ### Jen Ibarra
+Masters Student\
+{{<fa envelope>}} {{<fa brands bluesky>}}
+
+Jen is interested in the... and is investigating the... of kangaroo rats in and around the Carizzo Plain National Monument. She also exploring the ... of ... models to predict ... and hopes to ... and inform future management decisions. Jen's work also involves ... and ... in the neighboring ... to decipher ... and ... the inner workings of ... systems.
+:::
+:::::
+
 
 ### Kevin Lopez
 

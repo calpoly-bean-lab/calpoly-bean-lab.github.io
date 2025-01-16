@@ -4,30 +4,37 @@ format: html
 ---
 
 ## Faculty
+
 ::::: grid
 ::: g-col-3
 ![](photos/headshots/Bean_Tim.jpg){style="border-radius:50%" width="100%"}
 :::
+
 ::: g-col-9
 ### Tim Bean, PhD
+
 Associate Professor\
 [wtbean\@calpoly.edu](mailto:wtbean@calpoly.edu)
 :::
 :::::
+
 ## Postdoctoral Fellows
+
 ::::: grid
 ::: g-col-3
 ![](photos/headshots/Appleby_Scott.jpg){style="border-radius:50%" width="100%"}
 :::
+
 ::: g-col-9
 ### Scott Appleby, PhD
-Frost Teacher-Scholar Postdoctoral Fellow\
-[sappleby\@calpoly.edu](mailto:sappleby@calpoly.edu)
 
+Frost Teacher-Scholar Postdoctoral Fellow\
+[{{<fa envelope>}}](mailto:sappleby@calpoly.edu) [{{<fa brands google-scholar>}}](https://scholar.google.com/citations?user=9JigpZwAAAAJ) [{{<fa brands github>}}](https://github.com/s-appleby) [{{<fa brands linkedin>}}](https://www.linkedin.com/in/scott-m-appleby/)
 
 Scott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management.
 :::
 :::::
+
 ## Graduate Students
 
 ### Katie Elder

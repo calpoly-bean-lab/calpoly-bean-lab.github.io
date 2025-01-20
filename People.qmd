@@ -11,10 +11,11 @@ format: html
 :::
 
 ::: g-col-9
-### Tim Bean, PhD
+### William "Tim" Bean, PhD
 
 Associate Professor, Biological Sciences\
-[wtbean\@calpoly.edu](mailto:wtbean@calpoly.edu)
+[wtbean\@calpoly.edu](mailto:wtbean@calpoly.edu)\
+[Google Scholar](https://scholar.google.com/citations?user=fWo1hH0AAAAJ&hl=en)
 
 My goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals of all sizes, particularly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history.
 :::

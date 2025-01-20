@@ -13,6 +13,6 @@ include-in-header:
       </style>
 ---
 
-Here in the Spatial Wildlife Ecology Lab (aka the Bean Lab) at Cal Poly, San Luis Obispo, we work to conserve wild animals and places in California, from listing to restoration. Most of our research has a spatial dimension, from fine scale individual movement to past, present and future species distributions.
+Here in the Spatial Wildlife Ecology Lab (aka the Bean Lab) at Cal Poly, San Luis Obispo, we work to conserve wild animals and places in California, from listing to restoration. Most of our research has a spatial dimension, from fine scale individual movement; habitat selection; to the past, present and future of species' distributions.
 
-![](photos/island-fox-glove.png){fig-alt="Santa Rosa Island fox expresses displeasure" fig-align="left"}
+![](photos/island-fox-glove.png){fig-alt="Santa Rosa Island fox expresses displeasure" fig-align="left" width="1265"}

@@ -6,4 +6,3 @@ about:
   image-shape: round
 format: html
 ---
-

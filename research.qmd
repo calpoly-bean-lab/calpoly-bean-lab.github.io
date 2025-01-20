@@ -2,3 +2,11 @@
 title: "Past & Ongoing Research"
 format: html
 ---
+
+#### California Channel Islands
+
+::: {style="float: inline-start; margin: 5px;"}
+![](photos/santa_rosa.jpg){fig-alt="a beach on Santa Rosa Island, with Santa Cruz Island in the background" fig-align="left" width="250"}
+:::
+
+Working with the National Parks Service and The Nature Conservancy, we are studying the spatial ecology of Island foxes and Island spotted skunks on Santa Rosa and Santa Cruz. After a complicated trophic cascade due to the introduction of wild pigs, massive amounts of DDT dumped into the Southern California Bight, the disappearance of bald eagles and introduction of gold eagles, Island foxes declined to near extinction. Island skunks seemed to do well in their absence, but following fox recovery appear to have declined. Some of the questions students are asking include: how has fox home range size changed in relation to density? Where are the skunks, anyway? The Channel Islands are an incredible natural classroom, offering plenty of future opportunities to study small mammal and mesocarnivore dynamics.

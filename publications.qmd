@@ -2,4 +2,3 @@
 title: "Bean Lab Publications"
 format: html
 ---
-

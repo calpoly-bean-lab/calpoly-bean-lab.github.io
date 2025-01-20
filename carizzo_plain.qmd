@@ -1,4 +1,0 @@
----
-title: "Carizzo Plain Ecosystem Project"
-format: html
----

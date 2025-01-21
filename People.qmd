@@ -39,7 +39,18 @@ Scott’s research focuses on population and community modeling, integrating a v
 
 ## Graduate Students
 
+::::: grid
+::: g-col-3
+![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
 ### Katie Elder
+
+Masters Student\
+{{<fa envelope>}}
+:::
+:::::
 
 ::::: grid
 ::: g-col-3
@@ -65,19 +76,64 @@ Garrett is interested in the... and is investigating the... distribution of kang
 ### Jen Ibarra
 
 Masters Student\
-{{<fa envelope>}} {{<fa brands bluesky>}}
+{{<fa envelope>}} 
 
 Jen is interested in the... and is investigating the... of kangaroo rats in and around the Carrizo Plain National Monument. She also exploring the ... of ... models to predict ... and hopes to ... and inform future management decisions. Jen's work also involves ... and ... in the neighboring ... to decipher ... and ... the inner workings of ... systems.
 :::
 :::::
 
+::::: grid
+::: g-col-3
+![](photos/headshots/Lopez_Kevin.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
 ### Kevin Lopez
 
+Masters Student\
+{{<fa envelope>}} 
+
+Kevin is interested in all things related to raptor ecology. His research will focus on tracking nesting Barn Owls with GPS-biologgers equipped with accelerometers to understand how changes in habitat composition influence their habitat use and foraging behavior.
+:::
+:::::
+
+
+::::: grid
+::: g-col-3
+![](photos/headshots/MacKenzie_Caroline.jpg){style="border-radius:50%" width="100%"}
+:::
+::: g-col-9
 ### Caroline MacKenzie
 
-### Tricia Nguyen
+Masters Student\
+{{<fa envelope>}}
 
+Caroline MacKenzie received her bachelors in wildlife ecology from the University of Maine, working with small mammals and entomology. She's traveled throughout the U.S working in Nevada, North Dakota, Oregon, Washington and California, where her research focused on small mammals and long-term open source data collection. As part of the Bean Lab, Caroline investigates the dynamics of data synchrony in space and time when determining conservation priorities for the endangered Giant Kangaroo Rat. She is interested in why results from differing survey methods don't align with one another, data reliability, and best practices when making decisions for protection and presence of species. Utilizing habitat suitability modeling, habitat quality analysis and live trapping, her project helps to delineate potential strategies to increase accuracy in implementing management and protections as well as reasons why using multiple methods sometimes don't align with one another and possibilities to correct these mismatches. 
+:::
+:::::
+::::: grid
+::: g-col-3
+![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
+### Tricia Nguyen
+Masters Student\
+{{<fa envelope>}}
+:::
+:::::
+
+::::: grid
+::: g-col-3
+![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
 ### Desirae Thomaier
+Masters Student\
+{{<fa envelope>}}
+:::
+:::::
 
 ## Undergraduate Students
 
@@ -91,4 +147,3 @@ Jen is interested in the... and is investigating the... of kangaroo rats in and 
 
 ### Undergraduates
 
-:::

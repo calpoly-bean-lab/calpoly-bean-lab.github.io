@@ -1,6 +1,6 @@
 ---
 title: "Ongoing & Past Research"
-title-block-banner: photos/santa_rosa.jpg
+title-block-banner: photos/banner_santa_rosa.jpg
 title-block-banner-color: white
 format: html
 include-in-header:

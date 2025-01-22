@@ -41,7 +41,7 @@ Scott’s research focuses on population and community modeling, integrating a v
 
 ::::: grid
 ::: g-col-3
-![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+![](photos/headshots/Placeholder_Image.jpg){style="border-radius:50%" width="100%"}
 :::
 
 ::: g-col-9
@@ -78,7 +78,9 @@ Garrett is interested in the... and is investigating the... distribution of kang
 Masters Student\
 {{<fa envelope>}} 
 
-Jen is interested in the... and is investigating the... of kangaroo rats in and around the Carrizo Plain National Monument. She also exploring the ... of ... models to predict ... and hopes to ... and inform future management decisions. Jen's work also involves ... and ... in the neighboring ... to decipher ... and ... the inner workings of ... systems.
+Jen is interested in the use of fire as a land management tool and is investigating the impacts of cultural and prescribed burning on giant kangaroo rat (*Dipodomys ingens*) habitat in and around the Carrizo Plain National Monument. She is also exploring the use of non-invasive surveys to update occupancy models that aim to predict the presence or absence of giant kangaroo rats and inform future management decisions.
+ 
+She is a seasoned field biologist and has worked on field projects that include surveying and tracking of Mojave Desert tortoises, California condors, flat-tailed horned lizards, and California gnatcatchers. Jen looks forward to learning more about the natural world around her and supports the inclusion of traditional ecological knowledge and western science throughout her work.
 :::
 :::::
 
@@ -113,7 +115,7 @@ Caroline MacKenzie received her bachelors in wildlife ecology from the Universit
 :::::
 ::::: grid
 ::: g-col-3
-![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+![](photos/headshots/Placeholder_Image.jpg){style="border-radius:50%" width="100%"}
 :::
 
 ::: g-col-9
@@ -125,7 +127,7 @@ Masters Student\
 
 ::::: grid
 ::: g-col-3
-![](photos/headshots/Ibarra_Jen.jpg){style="border-radius:50%" width="100%"}
+![](photos/headshots/Placeholder_Image.jpg){style="border-radius:50%" width="100%"}
 :::
 
 ::: g-col-9

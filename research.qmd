@@ -1,5 +1,5 @@
 ---
-title: "Past & Ongoing Research"
+title: "Ongoing & Past Research"
 format: html
 ---
 

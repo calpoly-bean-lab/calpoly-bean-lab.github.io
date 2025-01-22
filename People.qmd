@@ -61,7 +61,7 @@ Masters Student\
 ### Garrett Gimbel
 
 Masters Student\
-{{<fa envelope>}}
+{{<fa envelope>}} [{{<fa brands github>}}](https://github.com/ggimbel)
 
 Garrett received his bachelor's degree in Wildlife and Fisheries Biology from the University of Vermont in 2019 where he first began exploring the role of spatial ecology in wildlife management and conservation. He then spent 3 years working with the endangered New Mexico Meadow Jumping Mouse (Zapus luteus) in southern Colorado and New Mexico. This project had many research goals including understanding the species' home range selection, habitat suitability, and behavior, as well as endocrinology and hibernating physiology. 
 

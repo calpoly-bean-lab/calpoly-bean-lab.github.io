@@ -10,14 +10,8 @@ website:
         text: People
       - href: teaching.qmd
         text: Teaching
-      - text: Research
-        menu:
-        - text: Overview
-          href: research.qmd
-        - text: Chorro Creek ER
-          href: chorro_creek_reserve.qmd
-        - text: Carrizo Plain Ecosystem Project
-          href: carrizo_plain.qmd
+      - href: research.qmd
+        text: Research
       - href: opportunities.qmd
         text: Prospective Students
       - href: publications.qmd

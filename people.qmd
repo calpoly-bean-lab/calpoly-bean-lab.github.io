@@ -63,7 +63,7 @@ Masters Student\
 Masters Student\
 [{{<fa envelope>}}](mailto:garrett.gimbel@gmail.com) [{{<fa brands github>}}](https://github.com/ggimbel)
 
-Garrett received his bachelor's degree in Wildlife and Fisheries Biology from the University of Vermont in 2019 where he first began exploring the role of spatial ecology in wildlife management and conservation. He then spent 3 years working with the endangered New Mexico Meadow Jumping Mouse (Zapus luteus) in southern Colorado and New Mexico. This project had many research goals including understanding the species' home range selection, habitat suitability, and behavior, as well as endocrinology and hibernating physiology. 
+Garrett received his bachelor's degree in Wildlife and Fisheries Biology from the University of Vermont in 2019 where he first began exploring the role of spatial ecology in wildlife management and conservation. He then spent 3 years working with the endangered New Mexico Meadow Jumping Mouse (Zapus luteus) in southern Colorado and New Mexico. This project had many research goals including understanding the species' home range selection, habitat suitability, and behavior, as well as endocrinology and hibernating physiology.
 
 In the Bean Lab, Garrett's research is part of a larger project looking into the narrow-faced kangaroo rat's (Dipodomys venustus) range, taxonomy, and habitat suitability. Specifically, he is investigating the range-wide habitat suitability for the species, and comparing niche divergence amongst the genetically identified subspecies. In the future, Garrett is interested in exploring new ways in which the spatial ecology and evolution/genetics fields can work together to better understand the distribution of species in the environment.
 :::
@@ -113,7 +113,6 @@ Masters Student\
 {{<fa envelope>}}
 
 Caroline MacKenzie received her bachelors in wildlife ecology from the University of Maine, working with small mammals and entomology. She's traveled throughout the U.S working in Nevada, North Dakota, Oregon, Washington and California, where her research focused on small mammals and long-term open source data collection. As part of the Bean Lab, Caroline investigates the dynamics of data synchrony in space and time when determining conservation priorities for the endangered Giant Kangaroo Rat. She is interested in why results from differing survey methods don't align with one another, data reliability, and best practices for species-specific management decisions. Utilizing habitat suitability modeling, habitat quality analysis and live trapping, her project aims to define effective strategies to increase the accuracy of habitat suitability models by understanding why different assessment methods sometimes provide conflicting results.
-
 :::
 :::::
 
@@ -141,7 +140,7 @@ Masters Student\
 Masters Student\
 {{<fa envelope>}} [{{<fa brands linkedin>}}](www.linkedin.com/in/desirae-thomaier/)
 
-Desirae is interested in how species interactions shape ecological communities, especially with the implications of climate change and land use changes. She is particularly interested in noninvasive monitoring techniques and remote sensing to bridge the gap between conservation, technology, and human-wildlife coexistence. She received a B.S. in Biology from the University of Washington in Seattle in 2018. Desirae worked for the National Park Service trapping island foxes and skunks, the Center for Ecosystem Sentinels studying penguins in Argentina, and also has experience with molecular biology and veterinary science. Her Master's research is investigating the spatial distribution of island spotted skunks with occupancy modeling via camera traps. In her free time she enjoys reading, baking, volleyball, and walks with her husband and two dogs. 
+Desirae is interested in how species interactions shape ecological communities, especially with the implications of climate change and land use changes. She is particularly interested in noninvasive monitoring techniques and remote sensing to bridge the gap between conservation, technology, and human-wildlife coexistence. She received a B.S. in Biology from the University of Washington in Seattle in 2018. Desirae worked for the National Park Service trapping island foxes and skunks, the Center for Ecosystem Sentinels studying penguins in Argentina, and also has experience with molecular biology and veterinary science. Her Master's research is investigating the spatial distribution of island spotted skunks with occupancy modeling via camera traps. In her free time she enjoys reading, baking, volleyball, and walks with her husband and two dogs.
 :::
 :::::
 

@@ -1,31 +1,59 @@
 [
   {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Research opportunities in the Bean Lab",
+    "section": "",
+    "text": "Undergraduate Students\nWe encourage undergraduate students interested in joining our Chorro Creek project to contact Prof. Bean or Dr. Appleby in advance of each fall quarter. We will also consider students seeking research experience starting in the winter and spring quarters on a case-by-case basis, though opportunities are more limited.\n\n\nGraduate Students\nThough there are currently no openings in the lab, students interested in pursuing a masters degree with Dr. Bean may always reach out with project ideas."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spatial Wildlife Ecology Lab",
+    "section": "",
+    "text": "Here in the Spatial Wildlife Ecology Lab (aka the Bean Lab) at Cal Poly, San Luis Obispo, we work to conserve wild animals and places in California, from listing to restoration. Most of our research has a spatial dimension, from fine scale individual movement; habitat selection; to the past, present and future of species’ distributions."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Ongoing & Past Research",
+    "section": "",
+    "text": "California Channel Islands\n\n\n\n\n\n\n\nThe Channel Islands are an incredible natural classroom, offering abundant opportunities to study small mammal and mesocarnivore dynamics. Working with the National Parks Service and The Nature Conservancy, we are studying the spatial ecology of Island foxes and Island spotted skunks on Santa Rosa and Santa Cruz. After a complicated trophic cascade due to the introduction of wild pigs, massive amounts of DDT dumped into the Southern California Bight, the disappearance of bald eagles and introduction of gold eagles, Island foxes declined to near extinction. Island skunks seemed to do well in their absence, but following fox recovery appear to have declined. Some of the questions students are asking include: how has fox home range size changed in relation to density? Where are the skunks, anyway?\n\n\nSan Joaquin Desert Conservation and Restoration\n[GKR, SJAS, solar energy, habitat conservation]\n\n\nLarge Mammal Movement and Conservation\n[elk + pronghorn]\n\n\nBarn Owls as Natural Predators on Vineyards\n[collaboration with Humboldt, link to Matt’s stuff]\n\n\nCalifornia Biodiversity Sentinel Site Network\n[link to CDFW, link to Chorro Creek ER page]\n\n\nKangaroo Rat Ecology and Conservation\n[Garrett; biogeography]\n\n\nNorth American Porcupine Ecology and Conservation\n[Disappearing porcupines; scouting]"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "BIO 327: Wildlife Ecology\nTerm Typically Offered: SP\nPrinciples of ecology as applied to the study of wild vertebrates and their habitats. Emphasis on techniques for collecting and analyzing field data and how these data apply to the study and management of wildlife. Use of the literature, inventory of plants and animal populations, use of maps and databases, quantifying diet and habitat use, determining sex and age and nutritional condition, capture and marking techniques, non-invasive sampling methods.\n\n\nBIO 427: Wildlife Management\nTerm Typically Offered: F\nImportant habitats, such as riparian, wetlands, and habitat features important to wildlife, such as vegetation types and snags. Basic concepts of wildlife management. Emphasis on planning and designing habitats to meet the needs of wildlife.\n\n\nBIO 447: Spatial Ecology\nTerm Typically Offered: W\nEffect of geographical space on distribution and abundance of organisms. Analysis of movement, home ranges, connectivity, range limits, and factors that shape these processes. Survey of available tools and data to answer questions in the discipline."
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Bean Lab Members",
     "section": "",
-    "text": "Associate Professor, Biological Sciences\nwtbean@calpoly.edu\nGoogle Scholar\nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
+    "text": "Associate Professor, Biological Sciences\n \nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
   },
   {
     "objectID": "people.html#faculty",
     "href": "people.html#faculty",
     "title": "Bean Lab Members",
     "section": "",
-    "text": "Associate Professor, Biological Sciences\nwtbean@calpoly.edu\nGoogle Scholar\nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
+    "text": "Associate Professor, Biological Sciences\n \nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
   },
   {
     "objectID": "people.html#postdoctoral-fellows",
     "href": "people.html#postdoctoral-fellows",
     "title": "Bean Lab Members",
     "section": "Postdoctoral Fellows",
-    "text": "Postdoctoral Fellows\n\n\n\n\n\nScott Appleby, PhD\nFrost Teacher-Scholar Postdoctoral Fellow\n   \nScott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management."
+    "text": "Postdoctoral Fellows\n\n\n\n\n\nScott M. Appleby, PhD 🏳️‍🌈\nFrost Teacher-Scholar Postdoctoral Fellow\n    \nScott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management."
   },
   {
     "objectID": "people.html#graduate-students",
     "href": "people.html#graduate-students",
     "title": "Bean Lab Members",
     "section": "Graduate Students",
-    "text": "Graduate Students\n\nKatie Elder\n\n\n\n\n\nGarrett Gimbel\nMasters Student\n\nGarrett is interested in the… and is investigating the… distribution of kangaroo rats in the central coast range.\n\n\n\n\n\n\n\nJen Ibarra\nMasters Student\n \nJen is interested in the… and is investigating the… of kangaroo rats in and around the Carrizo Plain National Monument. She also exploring the … of … models to predict … and hopes to … and inform future management decisions. Jen’s work also involves … and … in the neighboring … to decipher … and … the inner workings of … systems.\n\n\n\n\nKevin Lopez\n\n\nCaroline MacKenzie\n\n\nTricia Nguyen\n\n\nDesirae Thomaier"
+    "text": "Graduate Students\n\n\n\n\n\nKatie Elder\nMasters Student\n\n\n\n\n\n\n\n\nGarrett Gimbel\nMasters Student\n \nGarrett received his bachelor’s degree in Wildlife and Fisheries Biology from the University of Vermont in 2019 where he first began exploring the role of spatial ecology in wildlife management and conservation. He then spent 3 years working with the endangered New Mexico Meadow Jumping Mouse (Zapus luteus) in southern Colorado and New Mexico. This project had many research goals including understanding the species’ home range selection, habitat suitability, and behavior, as well as endocrinology and hibernating physiology.\nIn the Bean Lab, Garrett’s research is part of a larger project looking into the narrow-faced kangaroo rat’s (Dipodomys venustus) range, taxonomy, and habitat suitability. Specifically, he is investigating the range-wide habitat suitability for the species, and comparing niche divergence amongst the genetically identified subspecies. In the future, Garrett is interested in exploring new ways in which the spatial ecology and evolution/genetics fields can work together to better understand the distribution of species in the environment.\n\n\n\n\n\n\n\nJen Ibarra\nMasters Student\n\nJen is interested in the use of fire as a land management tool and is investigating the impacts of cultural and prescribed burning on giant kangaroo rat (Dipodomys ingens) habitat in and around the Carrizo Plain National Monument. She is also exploring the use of non-invasive surveys to update occupancy models that aim to predict the presence or absence of giant kangaroo rats and inform future management decisions.\nShe is a seasoned field biologist and has worked on field projects that include surveying and tracking of Mojave Desert tortoises, California condors, flat-tailed horned lizards, and California gnatcatchers. Jen looks forward to learning more about the natural world around her and supports the inclusion of traditional ecological knowledge and western science throughout her work.\n\n\n\n\n\n\n\nKevin Lopez\nMasters Student\n\nKevin is interested in all things related to raptor ecology. His research will focus on tracking nesting Barn Owls with GPS-biologgers equipped with accelerometers to understand how changes in habitat composition influence their habitat use and foraging behavior.\n\n\n\n\n\n\n\nCaroline MacKenzie\nMasters Student\n\nCaroline MacKenzie received her bachelors in wildlife ecology from the University of Maine, working with small mammals and entomology. She’s traveled throughout the U.S working in Nevada, North Dakota, Oregon, Washington and California, where her research focused on small mammals and long-term open source data collection. As part of the Bean Lab, Caroline investigates the dynamics of data synchrony in space and time when determining conservation priorities for the endangered Giant Kangaroo Rat. She is interested in why results from differing survey methods don’t align with one another, data reliability, and best practices for species-specific management decisions. Utilizing habitat suitability modeling, habitat quality analysis and live trapping, her project aims to define effective strategies to increase the accuracy of habitat suitability models by understanding why different assessment methods sometimes provide conflicting results.\n\n\n\n\n\n\n\nTricia Nguyen\nMasters Student\n\n\n\n\n\n\n\n\nDesirae Thomaier\nMasters Student\n \nDesirae is interested in how species interactions shape ecological communities, especially with the implications of climate change and land use changes. She is particularly interested in noninvasive monitoring techniques and remote sensing to bridge the gap between conservation, technology, and human-wildlife coexistence. She received a B.S. in Biology from the University of Washington in Seattle in 2018. Desirae worked for the National Park Service trapping island foxes and skunks, the Center for Ecosystem Sentinels studying penguins in Argentina, and also has experience with molecular biology and veterinary science. Her Master’s research is investigating the spatial distribution of island spotted skunks with occupancy modeling via camera traps. In her free time she enjoys reading, baking, volleyball, and walks with her husband and two dogs."
   },
   {
     "objectID": "people.html#undergraduate-students",
@@ -39,83 +67,6 @@
     "href": "people.html#alumni",
     "title": "Bean Lab Members",
     "section": "Alumni",
-    "text": "Alumni\n\nGraduate Students\n\n\nUndergraduates\n:::"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "BIO 327: Wildlife Ecology\nTerm Typically Offered: SP\nPrinciples of ecology as applied to the study of wild vertebrates and their habitats. Emphasis on techniques for collecting and analyzing field data and how these data apply to the study and management of wildlife. Use of the literature, inventory of plants and animal populations, use of maps and databases, quantifying diet and habitat use, determining sex and age and nutritional condition, capture and marking techniques, non-invasive sampling methods.\n\n\nBIO 427: Wildlife Management\nTerm Typically Offered: F\nImportant habitats, such as riparian, wetlands, and habitat features important to wildlife, such as vegetation types and snags. Basic concepts of wildlife management. Emphasis on planning and designing habitats to meet the needs of wildlife.\n\n\nBIO 447: Spatial Ecology\nTerm Typically Offered: W\nEffect of geographical space on distribution and abundance of organisms. Analysis of movement, home ranges, connectivity, range limits, and factors that shape these processes. Survey of available tools and data to answer questions in the discipline."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Spatial Wildlife Ecology Lab",
-    "section": "",
-    "text": "Here in the Spatial Wildlife Ecology Lab (aka the Bean Lab) here at Cal Poly, San Luis Obispo, we …"
-  },
-  {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Research opportunities in the Bean Lab",
-    "section": "",
-    "text": "Undergraduate Students\nWe encourage undergraduate students interested in joining our Chorro Creek project to contact Prof. Bean or Dr. Appleby in advance of each fall quarter. We will also consider students seeking research experience starting in the winter and spring quarters on a case-by-case basis, though opportunities are more limited.\n\n\nGraduate Students\nThough there are currently no openings in the lab, students interested in pursuing a masters degree with Dr. Bean may always reach out with project ideas."
-  },
-  {
-    "objectID": "Index.html",
-    "href": "Index.html",
-    "title": "Spatial Wildlife Ecology Lab",
-    "section": "",
-    "text": "Here in the Spatial Wildlife Ecology Lab (aka the Bean Lab) at Cal Poly, San Luis Obispo, we work to conserve wild animals and places in California, from listing to restoration. Most of our research has a spatial dimension, from fine scale individual movement; habitat selection; to the past, present and future of species’ distributions."
-  },
-  {
-    "objectID": "People.html",
-    "href": "People.html",
-    "title": "Bean Lab Members",
-    "section": "",
-    "text": "Associate Professor, Biological Sciences\nwtbean@calpoly.edu\nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals of all sizes, particularly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
-  },
-  {
-    "objectID": "People.html#faculty",
-    "href": "People.html#faculty",
-    "title": "Bean Lab Members",
-    "section": "",
-    "text": "Associate Professor, Biological Sciences\nwtbean@calpoly.edu\nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals of all sizes, particularly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
-  },
-  {
-    "objectID": "People.html#postdoctoral-fellows",
-    "href": "People.html#postdoctoral-fellows",
-    "title": "Bean Lab Members",
-    "section": "Postdoctoral Fellows",
-    "text": "Postdoctoral Fellows\n\n\n\n\n\nScott Appleby, PhD\nFrost Teacher-Scholar Postdoctoral Fellow\n   \nScott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management."
-  },
-  {
-    "objectID": "People.html#graduate-students",
-    "href": "People.html#graduate-students",
-    "title": "Bean Lab Members",
-    "section": "Graduate Students",
-    "text": "Graduate Students\n\nKatie Elder\n\n\n\n\n\nGarrett Gimbel\nMasters Student\n\nGarrett is interested in the… and is investigating the… distribution of kangaroo rats in the central coast range.\n\n\n\n\n\n\n\nJen Ibarra\nMasters Student\n \nJen is interested in the… and is investigating the… of kangaroo rats in and around the Carrizo Plain National Monument. She also exploring the … of … models to predict … and hopes to … and inform future management decisions. Jen’s work also involves … and … in the neighboring … to decipher … and … the inner workings of … systems.\n\n\n\n\nKevin Lopez\n\n\nCaroline MacKenzie\n\n\nTricia Nguyen\n\n\nDesirae Thomaier"
-  },
-  {
-    "objectID": "People.html#undergraduate-students",
-    "href": "People.html#undergraduate-students",
-    "title": "Bean Lab Members",
-    "section": "Undergraduate Students",
-    "text": "Undergraduate Students\n\nChorro Creek Project\n\n\nCarrizo Plain Ecosystem Project"
-  },
-  {
-    "objectID": "People.html#alumni",
-    "href": "People.html#alumni",
-    "title": "Bean Lab Members",
-    "section": "Alumni",
-    "text": "Alumni\n\nGraduate Students\n\n\nUndergraduates\n:::"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Past & Ongoing Research",
-    "section": "",
-    "text": "California Channel Islands\n\n\n\n\n\n\n\nThe Channel Islands are an incredible natural classroom, offering abundant opportunities to study small mammal and mesocarnivore dynamics. Working with the National Parks Service and The Nature Conservancy, we are studying the spatial ecology of Island foxes and Island spotted skunks on Santa Rosa and Santa Cruz. After a complicated trophic cascade due to the introduction of wild pigs, massive amounts of DDT dumped into the Southern California Bight, the disappearance of bald eagles and introduction of gold eagles, Island foxes declined to near extinction. Island skunks seemed to do well in their absence, but following fox recovery appear to have declined. Some of the questions students are asking include: how has fox home range size changed in relation to density? Where are the skunks, anyway?\n\n\nSan Joaquin Desert Conservation and Restoration\n[GKR, SJAS, solar energy, habitat conservation]\n\n\nLarge Mammal Movement and Conservation\n[elk + pronghorn]\n\n\nBarn Owls as Natural Predators on Vineyards\n[collaboration with Humboldt, link to Matt’s stuff]\n\n\nCalifornia Biodiversity Sentinel Site Network\n[link to CDFW, link to Chorro Creek ER page]\n\n\nKangaroo Rat Ecology and Conservation\n[Garrett; biogeography]\n\n\nNorth American Porcupine Ecology and Conservation\n[Disappearing porcupines; scouting]"
+    "text": "Alumni\n\nGraduate Students\n\n\nUndergraduates"
   }
 ]

@@ -1,6 +1,15 @@
 ---
-title: "Past & Ongoing Research"
+title: "Ongoing & Past Research"
+title-block-banner: photos/banner_santa_rosa.jpg
+title-block-banner-color: white
 format: html
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center
+      }
+      </style>
 ---
 
 #### California Channel Islands

@@ -118,14 +118,18 @@ Caroline MacKenzie received her bachelors in wildlife ecology from the Universit
 
 ::::: grid
 ::: g-col-3
-![](photos/headshots/Placeholder_Image.jpg){style="border-radius:50%" width="100%"}
+![](photos/headshots/Nguyen_Tricia.jpg){style="border-radius:50%" width="100%"}
 :::
 
 ::: g-col-9
 ### Tricia Nguyen
 
 Masters Student\
-{{<fa envelope>}}
+[{{<fa envelope>}}](mailto:tnguy705@calpoly.edu)
+
+Tricia has a Bachelor's in Wildlife, Fish and Conservation Biology from UC Davis, where she first became interested in human-wildlife conflict. Tricia assisted with the Road Ecology Center's research on wildlife-traffic collisions and Patricelli Lab research on the effects of fire on greater sage-grouse diet and courtship. At Cal Poly, Tricia's research focuses on coyote (Canis latrans) and non-target species responses to livestock guardian dogs at sheep grazing sites in San Luis Obispo County. In the future, Tricia hopes to continue working with coyotes and learning about ways to facilitate human-wildlife coexistence.
+
+Tricia is also passionate about mentorship, science education and outreach and works as a science educator teaching elementary school-aged children about sustainability and waste management. In her free time, Tricia enjoys karaoke, reading horror novels, going to the beach, and rooting for the San Francisco 49ers.
 :::
 :::::
 
@@ -146,6 +150,6 @@ Desirae is interested in how species interactions shape ecological communities, 
 
 ## Alumni
 
-Patrick Anderson
+Patrick Anderson, MS (2023). Thesis: [*Evaluation Of Facilitation On Translocation Outcomes For San Joaquin Antelope Squirrel In The Carrizo Plain, California*](https://digitalcommons.calpoly.edu/theses/2726/)
 
-Ian Axsom
+Ian Axsom, MS (2022). Thesis: [*Ectotherm Thermoregulation at Fine Scales: Novel Methods Reveal a Link Between the Spatial Distribution of Temperature and Habitat Quality*](https://digitalcommons.calpoly.edu/theses/2752/)

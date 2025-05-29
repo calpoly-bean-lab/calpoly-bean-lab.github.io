@@ -63,7 +63,7 @@ We are so excited to partner with Dr. Matt Johnson's lab at Cal Poly Humboldt to
 We are working to establish more biodiversity and climate Sentinel Sites in partnership with California Department of Fish & Wildlife and the California Biodiversity Network. These sites use traditional trail cameras, drift fences with downward facing cameras, and bat and bird acoustic records to document biodiversity across the state. They also provide great opportunities for students to gain hands on experience deploying equipment, using next generation analyses, and a platform for developing their research using data from not just our campus but across the state.
 :::
 ::: g-col-3
-![](photos/research photos/santa_rosa.jpg){fig-alt="a beach on Santa Rosa Island, with Santa Cruz Island in the background" fig-align="left"}
+![](photos/research photos/sentinel_chorro.jpg){fig-alt="Students setting up a Sentinel project drift fence at Chorro Creek Ecological Reserve" fig-align="left"}
 :::
 :::::
 
@@ -73,7 +73,7 @@ We are working to establish more biodiversity and climate Sentinel Sites in part
 Kangaroo rats are an iconic mammalian species of western North America - or, they should be! As ecosystem engineers, they move millions of tons of soil every year, changing nutrient cycles and in turn altering plant and animal communities. They can help to control invasive species, and their burrows provide important habitat for other species in the community. They also provide a fascinating case study for biogeography. Some kangaroo rats are extreme specialists, found only in a handful of special habitats; other closely related species are generalists, found in lots of places throughout their range. Speciation in this group is surprisingly understudied, and we're still learning about which species are found where.
 :::
 ::: g-col-3
-![](photos/research photos/santa_rosa.jpg){fig-alt="a beach on Santa Rosa Island, with Santa Cruz Island in the background" fig-align="left"}
+![](photos/research photos/gkr_carrizo.jpg){fig-alt="a Giant Kangaroo Rat at the Carrizo Plain National Monument" fig-align="left"}
 :::
 :::::
 

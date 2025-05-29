@@ -41,19 +41,6 @@ Scott’s research focuses on population and community modeling, integrating a v
 
 ::::: grid
 ::: g-col-3
-![](photos/headshots/Placeholder_Image.jpg){style="border-radius:50%" width="100%"}
-:::
-
-::: g-col-9
-### Katie Elder
-
-Masters Student\
-{{<fa envelope>}}
-:::
-:::::
-
-::::: grid
-::: g-col-3
 ![](photos/headshots/Gimbel_Garrett.jpg){style="border-radius:50%" width="100%"}
 :::
 
@@ -149,6 +136,8 @@ Desirae is interested in how species interactions shape ecological communities, 
 :::::
 
 ## Alumni
+
+Katie Elder, MS (2025). Thesis: Density-dependent habitat selection & home range sizes in a recovering population of island foxes (*Urocyon littoralis*) on Santa Rosa Island, California 
 
 Patrick Anderson, MS (2023). Thesis: [*Evaluation Of Facilitation On Translocation Outcomes For San Joaquin Antelope Squirrel In The Carrizo Plain, California*](https://digitalcommons.calpoly.edu/theses/2726/)
 
